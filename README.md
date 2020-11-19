@@ -1,4 +1,4 @@
-# Paysite Opencart 3.0.x
+# Paysite Opencart Payment Plugin 3.0.x
 
 ## Installation
 
